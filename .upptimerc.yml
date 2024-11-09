@@ -1,15 +1,10 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: westsideaudio # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
   - name: Westside Audio
     url: https://www.westsideaudio-sg.com
-  - name: IPv6 test
-    url: forwardemail.net
-    port: 80
-    check: "tcp-ping"
-    ipv6: true
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
