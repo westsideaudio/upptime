@@ -10,31 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1471,
-    "timeDay": 1471,
-    "timeWeek": 1471,
-    "timeMonth": 1471,
-    "timeYear": 1471,
+    "time": 1357,
+    "timeDay": 1357,
+    "timeWeek": 1357,
+    "timeMonth": 1357,
+    "timeYear": 1357,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Westside Audio Test",
-    "url": "https://www.westsideaudo-sg.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.westsideaudo-sg.com.ico",
-    "slug": "westside-audio-test",
-    "status": "down",
-    "uptime": "2.96%",
-    "uptimeDay": "2.96%",
-    "uptimeWeek": "2.96%",
-    "uptimeMonth": "2.96%",
-    "uptimeYear": "2.96%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2024-11-09": 0
-    }
   }
 ]
