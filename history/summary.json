@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.westsideaudio-sg.com.ico",
     "slug": "westside-audio",
     "status": "down",
-    "uptime": "48.49%",
+    "uptime": "48.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "0.41%",
+    "uptimeYear": "0.15%",
     "time": 542,
-    "timeDay": 62,
-    "timeWeek": 127,
-    "timeMonth": 130,
-    "timeYear": 162,
+    "timeDay": 167,
+    "timeWeek": 120,
+    "timeMonth": 134,
+    "timeYear": 138,
     "dailyMinutesDown": {
-      "2026-10-17": 245,
+      "2026-10-18": 252,
+      "2026-10-17": 1440,
       "2026-10-16": 1440,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
@@ -379,8 +380,7 @@
       "2025-10-22": 1440,
       "2025-10-21": 1440,
       "2025-10-20": 1440,
-      "2025-10-19": 1440,
-      "2025-10-18": 387
+      "2025-10-19": 1440
     }
   }
 ]
